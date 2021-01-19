@@ -1,0 +1,20 @@
+{
+   "screen": {
+      "width": 600,
+      "height": 800,
+      "delay": 8
+   },
+   "pipe": {
+      "speed": 3.5,
+      "gap": 140,
+      "width": 50,
+      "start": 610
+   },
+   "bird": {
+      "width": 60,
+      "height": 40
+   },
+   "game": {
+      "hard": false
+   }
+}
