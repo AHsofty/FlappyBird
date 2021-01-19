@@ -7,7 +7,6 @@ os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (x,y)
 
 import pygame
 import random
-import math
 import json
 
 black    = (0,   0,   0)
